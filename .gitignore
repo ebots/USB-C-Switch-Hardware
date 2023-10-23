@@ -1,0 +1,5 @@
+pcbs/fp-info-cache
+pcbs/usbswitch-backups/
+pcbs/PI3USB302/usb_switch-backups/*
+**.zip
+.DS_Store
